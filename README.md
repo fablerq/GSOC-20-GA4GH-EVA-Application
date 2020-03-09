@@ -4,7 +4,7 @@ This is the first test draft of my application. At this state of writing, it sho
 
 I am Anatolii Shulzhenko, a 2nd year undergraduate Computer Science student at Saint Petersburg State University of Telecommunications, Russia. I have confident experience with Java, Scala and Python. Also in my past I worked with frontend technologies. Having knowledge in Software Development helped me to get an Scala internship at Tinkoff bank at the end of 1st course of study, where I used Scala, Java, Git and learned Docker, ELK stack. I also [completed](https://www.udemy.com/certificate/UC-OVB627O5/) a MOOC course about Java at Udemy last year. And my university background comprises of Alrogithms, Operating Systems and Programming. Currently I do the majority of my programming on a Ubuntu, however, I have access to a Windows platform and some virtual  machines.  
 
-And apart from these, I am also one of the mentors of local students-developers community called Bonch.dev. With them I participated in 6 hackathons during the last year and we [won](https://vk.com/photo-167489566_457240230/) one. Also I have been involved in a bunch of different project inside this community, using such frameworks like Laravel, VueJs, Django and Spring Boot.
+And apart from these, I am also one of the mentors of local students-developers community called Bonch.dev. With them I participated in 6 hackathons during the last year and we [won](https://vk.com/photo-167489566_457240230/) one. Also I have been involved in a bunch of different projects inside this community, using such frameworks like Laravel, VueJs, Django and Spring Boot.
 
 Regarding to my biology knowledge background, I think I need to be honest - it's quite small, I am just starting my journey in it and willing to study.
 
